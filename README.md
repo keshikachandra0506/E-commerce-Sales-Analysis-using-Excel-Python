@@ -24,10 +24,6 @@ To analyze e-commerce transactional data and generate actionable insights on sal
 * Found high-value customers and purchasing patterns
 * Highlighted best-selling products
 
-## Dashboard Preview
-
-![Dashboard](Screenshot 2026-04-13 100829.png)
-
 ## Outcome
 
 Developed a dashboard to support data-driven decision-making and improve business insights.
