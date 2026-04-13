@@ -28,4 +28,4 @@ To analyze e-commerce transactional data and generate actionable insights on sal
 
 Developed a dashboard to support data-driven decision-making and improve business insights.
 
-Screenshot 2026-04-13 100829
+
